@@ -1,4 +1,6 @@
 # exercise-repo
 We resolved the conflict!
 
-Add this from tortoise clone.
+
+Resolve the conflict.
+
